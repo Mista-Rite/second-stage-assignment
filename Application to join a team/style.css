@@ -20,6 +20,14 @@ body{
     
 }
 
+div img{
+    height: 100px;
+    width: 120px;
+    position: relative;
+    margin-right: 60%;
+    top: 10px;
+}
+
 h1{
     font-size: 40px;
 }
