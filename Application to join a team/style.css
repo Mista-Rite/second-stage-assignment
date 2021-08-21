@@ -1,0 +1,126 @@
+
+body{
+
+    box-sizing: border-box;
+    border: 10px  solid salmon;
+    margin-left: 100px;
+    margin-right: 100px;
+    position: relative;
+    TOP: 10px;
+    bottom: 10PX;
+    height: 1350px;
+
+
+}
+
+.container{
+    text-align: center;
+    border: 150px;
+    
+    
+}
+
+h1{
+    font-size: 40px;
+}
+
+div.address{
+    font-size: 20px;
+    line-height: 5px;
+}
+
+div.personal-data{
+    text-align: left;
+    margin-left: 290px;
+    margin-right: 250px;
+    
+}
+
+div.personal-data p{
+    font-size: 20px;
+
+}
+
+div span.personal-d-align{
+    margin-left: 60%;
+    position: relative;
+    bottom: 35px;
+    font-size: 20px;
+    line-height: 10px;
+    
+}
+
+div.objective{
+  text-align: left;
+    position:relative;
+    bottom: 15px;
+    text-align: left;
+    margin-left: 290px;
+    margin-right: 10px;
+    font-size: 20px;  
+}
+
+div dd.objective-definition{
+    text-align: left;
+    position:relative;
+    bottom: 15px;
+    text-align: left;
+    margin-left: 130px;
+    font-size: 20px;
+}
+div.skill{
+    text-align: left;
+    position:relative;
+    bottom: 15px;
+    text-align: left;
+    margin-left: 290px;
+    margin-right: 250px;
+    font-size: 20px;
+}
+
+div.education{
+    text-align: left;
+    position:relative;
+    bottom: 15px;
+    text-align: left;
+    margin-left: 290px;
+    margin-right: 250px;
+    font-size: 15px;
+}
+
+div>.edu-backg{
+    position:relative;
+    bottom: 40px;
+    text-align: right;
+    margin-left: 130px;
+    margin-right: 10px;
+    font-size: 20px;
+    line-height: 15px;
+
+}
+
+div.edu p{
+    font-size: 15px;
+    margin-right: 250px;
+}
+
+.referees{
+    font-size: 20px;
+    text-align: left;
+    position:relative;
+    bottom: 50px;
+    text-align: left;
+    margin-left: 290px;
+    margin-right: 250px;
+    
+}
+
+div.left-referee{
+    text-align: left;
+    position:relative;
+    bottom: 120px;
+    text-align: left;
+    margin-left: 400px;
+    margin-right: 10px;
+    font-size: 20px;
+}
